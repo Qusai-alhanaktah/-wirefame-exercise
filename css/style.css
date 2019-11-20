@@ -1,0 +1,77 @@
+nav li {
+    list-style: none;
+  display: inline-block;
+  padding:10px;
+  margin-top: 35px;
+  margin-right: 75px;
+  color: white;
+  text-align: center;
+}
+nav{
+    width: 100%;
+    top: 0;
+    background-color: rgb(47, 49, 49);
+    height: 100px;
+
+}
+nav img{
+    float: left;
+    margin-top: 15px;
+    margin-left: 130px;
+    margin-right: 40px;
+}
+
+nav,span,div,section{
+    margin-bottom: 30px;
+
+}
+
+span,section{
+    margin-left: 130px;
+}
+
+
+
+
+
+main div{
+    margin-top: 30px;
+    
+}
+
+div{
+text-align: center;
+}
+div img{
+    margin: 0 10px;
+}
+
+
+
+
+section img{
+    float: left;
+margin-right: 40px;
+}
+section{
+    margin-right: 130px;
+    height: 10px;
+}
+section p{
+    overflow: scroll;
+    height: 350px;
+}
+section button{
+    float: right;
+    margin-right: 347px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+  
+footer {
+background-color: gray;
+clear: both;
+height: 70px;
+}
+
